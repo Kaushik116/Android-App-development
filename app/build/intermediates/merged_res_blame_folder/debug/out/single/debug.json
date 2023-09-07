@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/drawable_dice_1.png.flat",
+        "source": "com.kaushik.diceroll.app-main-31:/drawable/dice_1.png"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/drawable_dice_3.png.flat",
+        "source": "com.kaushik.diceroll.app-main-31:/drawable/dice_3.png"
+    },
+    {
+        "merged": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.kaushik.diceroll.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/drawable_dice_5.png.flat",
+        "source": "com.kaushik.diceroll.app-main-31:/drawable/dice_5.png"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/drawable_dice_2.png.flat",
+        "source": "com.kaushik.diceroll.app-main-31:/drawable/dice_2.png"
+    },
+    {
+        "merged": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/drawable_dice_6.png.flat",
+        "source": "com.kaushik.diceroll.app-main-31:/drawable/dice_6.png"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/drawable_dice_4.png.flat",
+        "source": "com.kaushik.diceroll.app-main-31:/drawable/dice_4.png"
+    },
+    {
+        "merged": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kpala\\.gradle\\daemon\\7.4\\com.kaushik.diceroll.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kaushik.diceroll.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.kaushik.diceroll.app-debug-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
